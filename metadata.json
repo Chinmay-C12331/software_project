@@ -1,0 +1,6 @@
+{
+  "name": "College Course Registration System",
+  "description": "Full-stack college course registration portal with prerequisite verification, credit limit enforcement, real-time seat tracking, and automated waitlist management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
